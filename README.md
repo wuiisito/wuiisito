@@ -35,7 +35,7 @@
 ### 📈 Stats (miren esta belleza)
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=exeptionhandler&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=wuiisito&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
 </p>
 
 ---
