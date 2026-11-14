@@ -4,7 +4,7 @@
   💻 Aprendiendo a programar con <strong>Python</strong> <img src="/icons/rainbow_python.gif" width="19" style="vertical-align: middle; margin-bottom: 2px;" /> <br> 
   🌱 Explorando la magia de la automatización y los datos <img src="/icons/DuckDance.gif" width="19" style="vertical-align: middle; margin-bottom: 2px;" /> <br>
   ☕ Fan de los experimentos raros con código <img src="/icons/kuromi_wink.webp" width="25" style="vertical-align: middle; margin-bottom: 4px;" /> <br>
-  💘 Enamorado de sabrina carpenter <img src="/icons/mylove.webp" width="25" style="vertical-align: middle; margin-bottom: 4px;" /> <br>
+  💘 Sabrina la carpintera kawaii uwuwuwuwu <img src="/icons/mylove.webp" width="25" style="vertical-align: middle; margin-bottom: 4px;" /> <br>
 </p>
 
 ---
